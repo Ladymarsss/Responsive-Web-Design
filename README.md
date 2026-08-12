@@ -24,7 +24,7 @@ This repo is a work in progress — I'll keep adding new projects as I complete 
 
 | Project | Description |
 |---|---|
-| *Event Hub* | *[View Code](./Event-Hub)* |
+| *Event Hub* | *[View Code](./Event-Hub)* | *A responsive event listing page built with semantic HTML, showcasing upcoming and past tour dates.* |
 
 ---
 
