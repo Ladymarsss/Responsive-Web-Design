@@ -26,8 +26,6 @@ This repo is a work in progress — I'll keep adding new projects as I complete 
 |---|---|
 | *Event Hub* | *[View Code](./Event-Hub)* |
 
-> 💡 Tip: As you add projects, list them here with a short description and a link to the folder/file.
-
 ---
 
 ## 🎯 Purpose
