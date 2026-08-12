@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+<h1>Event Hub</h1>
+<nav>
+    <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+    </ul>
+    </nav>
+</header>
+<main>
+<section id="upcoming-events">
+    <h2>Upcoming Events</h2>
+    <article>
+        <h3>DEADBEAT TOUR, USA</h3>
+        <p>
+            AUG 25, 2026
+            </br>
+            Nationwide Arena
+            </br>
+            <strong>Columbus, OH</strong>
+            </br>
+            Kick off the US leg of the Deadbeat Tour with a huge show at Nationwide Arena.
+            </br>
+            <button>Tickets</button>
+        </p>
+        <p>
+            AUG 28, 2026
+            </br>
+            Target Center
+            </br>
+            <strong>Minneapolis, MN</strong>
+            </br>
+            The tour rolls into Minneapolis for a night at the Target Center.
+            </br>
+            <button>Tickets</button>
+        </p>
+        <p>
+            SEP 1, 2026
+            </br>
+            Climate Pledge Arena
+            </br>
+            <strong>Seattle, WA</strong>
+            </br>
+            Catch the final US date of the tour at Climate Pledge Arena in Seattle.
+            </br>
+            <button>Tickets</button>
+        </p>   
+    </article>
+    <article>
+        <h3>DEADBEAT TOUR, AUSTRALIA</h3>
+        <p>
+            OCT 9, 2026
+            </br>
+            Brisbane Entertainment Centre
+            </br>
+            <strong>Boondall, Australia</strong>
+            </br>
+            The Australian leg kicks off with the first of three nights at Brisbane Entertainment Centre.
+            </br>
+            <button>Tickets</button>
+        </p>
+        <p>
+            OCT 10, 2026
+            </br>
+            Brisbane Entertainment Centre
+            </br>
+            <strong>Boondall, Australia</strong>
+            </br>
+            A second night in Boondall as the tour continues at Brisbane Entertainment Centre.
+            </br>
+            <button>Tickets</button>
+        </p>
+        <p>
+            OCT 11, 2026
+            </br>
+            Brisbane Entertainment Centre
+            </br>
+            <strong>Boondall, Australia</strong>
+            </br>
+            The Australian run wraps up with a third and final show at Brisbane Entertainment Centre.
+            </br>
+            <button>Tickets</button>
+        </p>
+    </article>
+</section>
+<section id="past-events">
+    <h2>Past Events</h2>
+    <article>
+        <h3>LET IT HAPPEN, 2016</h3>
+        <p>
+            JAN-FEB, 2016
+            </br>
+            <strong>Amsterdam, Brussels, Paris, Copenhagen, Oslo, Stockholm, Hamburg, Berlin, Cologne, Manchester, and London.</strong>
+            </br>
+            The Let It Happen tour opened with a sweep across major European cities.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <p>
+            MAR, 2016
+            </br>
+            <strong>Bogota, S&atilde;o Paulo, Lima, Buenos Aires, Santiago.</strong>
+            </br>
+            The tour headed to South America for a run of shows across the continent.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <p>
+            JUN, 2016
+            </br>
+            <strong>US dates including Chicago (UIC Pavilion); Brooklyn (Prospect Park); Columbia, MD (Merriweather Post).</strong>
+            </br>
+            The tour returned to the US for summer dates at iconic outdoor and indoor venues.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <figure width="100%" height="auto">
+            <img src="https://buzzbands.la/wp-content/gallery/fyf2016-sat-zr/tame-impala-fyf-8-27-2016-1.jpg" alt="Tame Impala at FYF Fest, Aug. 27, 2016. Photo by Zane Roessell" width="640px" height="auto">
+            <figcaption>
+                Tame Impala at FYF Fest, Aug. 27, 2016. Photo by Zane Roessell
+            </figcaption>
+        </figure>
+    </article>
+    <article>
+        <h3>LET IT HAPPEN, 2015</h3>
+        <p>
+            APR, 2015
+            </br>
+            <strong>Pomona, CA (Fox Theater); Indio, CA (Coachella).</strong>
+            </br>
+            The tour launched in California with a headline show and a Coachella festival appearance.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <p>
+        MAY, 2015
+            </br>
+            <strong>Austin, TX (Levitation Festival); New Orleans, LA (Civic Theatre).</strong>
+            </br>
+            The tour continued through the South with festival and theater performances.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <p>
+        JUL-AUG, 2015
+            </br>
+            <strong>Byron Bay, AUS (Splendour in the Grass); Chicago, IL (Lollapalooza); San Diego, CA (Observatory North Park); LA (Hollywood Forever); SF (Outside Lands).</strong>
+            </br>
+            The tour closed out summer with a global run across major festivals and venues.
+            </br>
+            <button disabled>Tickets</button>
+        </p>
+        <figure width="100%" height="auto">
+        <img src="https://www.sbsun.com/wp-content/uploads/migration/2015/201504/FEATURES_150419904_AR_0_JTVDVRDJWZEY.jpg?w=1200" alt="Coachella 2015" width="640px" height="auto">
+        <figcaption>Tame Impala at Coachella, 2015.</figcaption>
+        </figure>
+        
+    </article>
+</section>
+</main>
+</body>
+
+</html>
