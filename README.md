@@ -24,7 +24,7 @@ This repo is a work in progress — I'll keep adding new projects as I complete 
 
 | Project | Description |
 |---|---|
-| *Coming soon...* | *Add your projects here as you go!* |
+| *Event Hub* | *Add your projects here as you go!* |
 
 > 💡 Tip: As you add projects, list them here with a short description and a link to the folder/file.
 
